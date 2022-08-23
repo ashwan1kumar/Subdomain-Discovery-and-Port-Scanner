@@ -1,4 +1,7 @@
-Assignment submission for python developer position at secureU
+Python based tool that allows for scanning/discovering all subdomains of a given domain.
+i) Scan all open ports of a host address.
+ii) Check if it has XSS header enabled or not
+iii) Checks if the domain has a valid SSL certificate
 
 All the files are uploaded and the neccessary libraries can be installed by running 
 ```text
