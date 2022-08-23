@@ -1,0 +1,17 @@
+URL : flipkart.com
+..............................................................................
+Subdomains :
+- 200 https://pay.flipkart.com
+- 200 https://www.flipkart.com
+- 200 https://m.flipkart.com
+ Total subdomain are: 3
+..............................................................................
+SSL Details: 
+ -SSL : Enabled
+ - issued to : flipkart.com
+..............................................................................
+Ports: 
+Port 80 : Open
+..............................................................................
+Header : 
+X-XSS-Protection : Not Enabled

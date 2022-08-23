@@ -1,0 +1,7 @@
+python-nmap
+requests
+sockets	
+pycurl
+concurrent.futures
+os
+nmap
