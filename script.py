@@ -86,7 +86,7 @@ file_handler.write("............................................................
 
 #writing to log about SSL details of domain
 file_handler.write(f"SSL Details: \n -SSL : {ssl_cert}\n - issued to : {domain}\n")
-file_handler.write("..............................................................................\n")
+file_handler.write(".............................................................................\n")
 file_handler.write(f"Ports: \n")
 
 domains = gethostbyname(domain)
