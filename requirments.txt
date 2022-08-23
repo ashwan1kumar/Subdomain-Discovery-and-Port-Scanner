@@ -3,5 +3,4 @@ requests
 sockets	
 pycurl
 concurrent.futures
-os
 nmap
